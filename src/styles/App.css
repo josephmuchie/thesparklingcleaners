@@ -789,6 +789,10 @@ p {
     font-size: 1rem !important;
     min-height: 48px !important;
   }
+  
+  .calendly-iframe {
+    height: 500px !important;
+  }
 }
 
 /* Touch-friendly interactions */
